@@ -1,3 +1,3 @@
 # Hello-World
-Allgemeines
+Allgemeines: 
 Die Reise beginnt.
